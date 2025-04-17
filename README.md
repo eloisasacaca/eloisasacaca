@@ -6,8 +6,8 @@ Desenvolvedora Full Stack em formação | Apaixonada por tecnologia e desafios c
 
 <p align="center">
   <a href="mailto:sacacaeloisa@gmail.com"><img src="https://img.shields.io/badge/Email-sacacaeloisa@gmail.com-red?style=flat&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/eloisa-souza" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Eloisa%20Sacaca-blue?style=flat&logo=linkedin"></a>
-  <a href="https://github.com/eloisasacaca" target="_blank"><img src="https://img.shields.io/badge/GitHub-eloisasacaca-181717?style=flat&logo=github"></a>
+  <a href="https://www.linkedin.com/in/eloisa-souza" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Eloisa%20Sacaca-blue?style=flat&logo=linkedin"></a>
+  <a href="https://github.com/eloisasacaca" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-eloisasacaca-181717?style=flat&logo=github"></a>
 </p>
 
 ---
